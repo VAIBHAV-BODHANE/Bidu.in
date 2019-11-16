@@ -1,0 +1,10 @@
+1)There are 4 items in one slide.
+
+2)if we have n items we will have n//4+1 slides if n is not divisible by 4.
+
+3)but if n is divisible by 4, then we have n//4 slides.
+
+4) so the formula for number of slides will be
+
+5)n//4 + ceil(n/4 - n//4) where ceil is leat integer function.
+
