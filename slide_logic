@@ -6,5 +6,5 @@
 
 4) so the formula for number of slides will be
 
-5)n//4 + ceil(n/4 - n//4) where ceil is leat integer function.
+5)n//4 + ceil(n/4 - n//4) where ceil is least integer function.
 
